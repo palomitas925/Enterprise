@@ -98,4 +98,5 @@ create table inv_ti_cisco (
     modelo_cisco varchar(50),
     adicional_cisco varchar(50),
     observaciones_cisco varchar(50));
+
     
